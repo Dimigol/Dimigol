@@ -39,35 +39,74 @@ I’m especially interested in:
 ## 🛠️ Tech Stack
 
 **Languages**
-- JavaScript / TypeScript
+- Java
+- JavaScript
+
+**Core Concepts**
+- Object-Oriented Programming (Java)
+- Problem Solving & Logic
+- Data Structures (basic)
 
 **Frontend**
-- React
+- HTML, CSS, JavaScript
 
-**Backend**
-- Node.js
-- REST APIs
-
-**Cloud & DevOps**
-- AWS (basics)
-- CI/CD (fundamentals)
+**Projects**
+- Game development (Java)
+- Interactive web applications (JavaScript)
 
 **Tools**
-- Git
-- AI-assisted coding tools
+- Git / GitHub
 
+**AI & Emerging Tech**
+- LLM concepts (learning)
+- Prompt engineering
+- AI-assisted development tools
 ---
 
 ## 📌 Featured Projects
 
-🔹 [Project Name 1](LINK_AQUI)  
-Short description (1 line impact)
+### 🔹 Blackjack Game (Java)
+Object-oriented card game implementation focused on game logic and state management.
 
-🔹 [Project Name 2](LINK_AQUI)  
-Short description
+- Built using Java with OOP principles  
+- Implements game rules, player actions, and flow control  
+- Focus on clean logic and modular structure  
 
-🔹 [Project Name 3](LINK_AQUI)  
-Short description
+👉 [View Project](https://github.com/Dimigol/blackjack)
+
+---
+
+### 🔹 RPG Game (Java)
+Console-based RPG system exploring object-oriented design and game mechanics.
+
+- Character system and interaction logic  
+- Use of classes, methods, and encapsulation  
+- Focus on structured and scalable code organization  
+
+👉 [View Project](https://github.com/Dimigol/rpg-game)
+
+---
+
+### 🔹 Netflix UI Clone (JavaScript)
+Frontend project replicating a streaming platform interface.
+
+- Built with JavaScript, HTML, and CSS  
+- Dynamic UI behavior and layout structuring  
+- Focus on user interface and interaction  
+
+👉 [View Project](https://github.com/Dimigol/Netflix)
+
+---
+
+### 🔹 Portfolio Website
+Personal portfolio showcasing projects and development journey.
+
+- Built with HTML, CSS  
+- Structured to present projects and skills  
+- Continuous improvements and design iterations  
+
+👉 [View Project](https://github.com/Dimigol/dimitri-site)
+👉 [Live Demo](https://dimigol.github.io/dimitri-site/)
 
 ---
 
