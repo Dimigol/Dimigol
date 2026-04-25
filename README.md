@@ -84,6 +84,7 @@ Console-based RPG system exploring object-oriented design and game mechanics.
 - Focus on structured and scalable code organization  
 
 👉 [View Project](https://github.com/Dimigol/rpg-game)
+👉 [Live Demo](https://dimigol.github.io/rpg-game/)
 
 ---
 
@@ -95,6 +96,7 @@ Frontend project replicating a streaming platform interface.
 - Focus on user interface and interaction  
 
 👉 [View Project](https://github.com/Dimigol/Netflix)
+👉 [Live Demo](https://dimigol.github.io/Netflix/)
 
 ---
 
