@@ -11,17 +11,12 @@
 
 I'm a Computer Science student currently working as a Full Stack Developer Intern, building real-world applications with a focus on **scalable systems, cloud environments, and AI integration**.
 
-I’m especially interested in:
-- 🤖 LLM integration & AI-powered systems  
-- ☁️ Cloud-native applications (AWS)  
-- 🔧 Full-stack development (React, Node.js)  
-- ⚙️ DevOps & scalable architectures  
 
 ---
 
 ## 🧠 Current Project
 
-### 🔹 AI Internal Assistant (Banrisul)
+### 🔹 Internal DEV (Banrisul)
 
 > AI-powered assistant that uses internal company documentation to generate contextual responses.
 
@@ -32,13 +27,14 @@ I’m especially interested in:
 - Use of AI-assisted development tools
 
 **Tech stack:**
-`JavaScript` `TypeScript` `APIs` `LLM` `RAG` `Git`
+`JavaScript` `C#` `APIs` `LLM` `RAG` `Git`
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
+- C#
 - Java
 - JavaScript
 
@@ -50,9 +46,6 @@ I’m especially interested in:
 **Frontend**
 - HTML, CSS, JavaScript
 
-**Projects**
-- Game development (Java)
-- Interactive web applications (JavaScript)
 
 **Tools**
 - Git / GitHub
