@@ -108,4 +108,4 @@ Personal portfolio showcasing projects and development journey.
 ##  Contact
 
 - LinkedIn: www.linkedin.com/in/dimitricjadovski
-- Portfolio: https://dimigol.github.io/dimitri-site/
+- Portfolio: [https://dimigol.github.io/dimitri-site/](https://portfolio-site-ashen-beta-36.vercel.app/)
