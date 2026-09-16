@@ -100,12 +100,12 @@ Personal portfolio showcasing projects and development journey.
 - Structured to present projects and skills  
 - Continuous improvements and design iterations  
 
- [View Project](https://github.com/Dimigol/dimitri-site)
- [Live Demo](https://dimigol.github.io/dimitri-site/)
+ [View Project](https://github.com/Dimigol/portfolio-site)
+ [Live Demo](https://portfolio-site-ashen-beta-36.vercel.app/)
 
 ---
 
 ##  Contact
 
 - LinkedIn: www.linkedin.com/in/dimitricjadovski
-- Portfolio: [https://dimigol.github.io/dimitri-site/](https://portfolio-site-ashen-beta-36.vercel.app/)
+- Portfolio: https://portfolio-site-ashen-beta-36.vercel.app/
